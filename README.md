@@ -25,7 +25,7 @@ Cuando combinas un buen diseño, una buena programaciòn y una buena seguridad. 
 <td width="50%">
 <h3 align="center">Firecise</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/VER%20DISE%C3%91O-9FEF00?style=for-the-badge&logo=krita&logoColor=black"
