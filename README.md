@@ -34,7 +34,7 @@ Cuando combinas un buen diseño, una buena programaciòn y una buena seguridad. 
 <img src="https://img.shields.io/badge/VER%20DISE%C3%91O-9FEF00?style=for-the-badge&logo=krita&logoColor=black"
 </a>
 </p>
-</p>Diseño de una aplicacion movil FIRECISE.<br/>Te notificaremos si hay algun <strong>INCENDIOS</strong> cerca del lugar donde te encuentres. Y asi podras salvaguardar tu vida y las de tus seres queridos.</p>
+</p>Diseño de una aplicacion movil FIRECISE.Te notificaremos si hay algun <strong>INCENDIOS</strong> cerca del lugar donde te encuentres. Y asi podras salvaguardar tu vida y las de tus seres queridos.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
