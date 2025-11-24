@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ac/39/58/ac3958e3e82f09c3d19facba53badd93.gif" width="100%" height="300"/>
+  <img src="https://pixel-art-gallery.tumblr.com/image/679998316440911872" width="100%" height="300"/>
 </div>
 <div align="center">
   <h3>Pentester | Developer | Designer</h3>
