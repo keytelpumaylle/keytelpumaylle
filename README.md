@@ -82,7 +82,7 @@ Dataset sintético para detección de actividad acústica de *Eisenia fetida* en
 ### ☁️ [Hadoop-modo-pseudo-distribuido](https://github.com/keytelpumaylle/Hadoop-modo-pseudo-distribuido)
 > Dockerfile · Hadoop
  
-Hadoop en modo pseudo-distribuido con Docker. Configuración automática, scripts de inicio y pruebas listas para contenedor.
+Sistema de Reservacion de Tickets en Hadoop en modo pseudo-distribuido con Docker. Configuración automática, scripts de inicio y pruebas listas para contenedor. 
  
 ---
  
@@ -113,18 +113,4 @@ Enero 2026 – presente · Diseño, desarrollo y operación de plataforma e-comm
 | 2025 | *Project Aura* — sistema de recomendación farmacéutica con IA para Apurímac |
  
 ---
- 
-## Stats
- 
-<div align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=keytelpumaylle&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keytelpumaylle&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
- 
-</div>
----
- 
-<div align="center">
-`keytelpumaylle@gmail.com` · [`orcid.org/0009-0004-2154-2252`](https://orcid.org/0009-0004-2154-2252)
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%"/>
-</div>
+
